@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+h1:hover {
+     color:pink;
+background-color: brown;
+}
+a:hover{
+   color: chartreuse; 
+   background-color: cornsilk;
+}
+header:hover{
+    color: darkmagenta;
+    background-color: darkorange;
+}
+footer:hover{
+    color: darkturquoise;
+    background-color: dodgerblue;
+}
+li:hover{
+    text-decoration:underline ;
+}
+
+
+
